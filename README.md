@@ -30,7 +30,7 @@ Oyuncular, oyun dünyasını keşfedebilirler. Oyun dünyası, farklı sokaklar,
 
 Oyun Adı, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştirici ekip:
 
-- Ali KAHYA (e-posta adresi)
-- Kemal KAÇMAZ (e-posta adresi)
+- ALİ KAHYA (e-posta adresi)
+- KEMAL KAÇMAZ (e-posta adresi)
 
 
