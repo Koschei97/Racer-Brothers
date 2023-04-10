@@ -36,4 +36,4 @@ Oyun Adı, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştirici ek
 ## Güncelleme Notları
 
 ### Geliştiriciler için kaynak
-https://learn.unity.com/
+-https://learn.unity.com/
