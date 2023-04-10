@@ -38,4 +38,4 @@ Oyun Adı, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştirici ek
 
 ## Güncelleme Notları
   10.04.2023:
-- Bilgisayara unity kurulumu gerçekleşti.
+-Bilgisayara unity kurulumu gerçekleşti.
