@@ -35,6 +35,7 @@ Oyun Adı, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştirici ek
 
 ## Geliştiriciler için kaynak
 - https://learn.unity.com/
+- https://www.youtube.com/watch?v=8IP6Boyu1-Y&list=PLSuhOGv534vSzK3nPV4Pq3rVvuytlr3Yv&index=2&ab_channel=SendeKodYaz
 
 ## Güncelleme Notları
 
