@@ -1,6 +1,6 @@
 # Racer-Brothers
 
-Racer-Brothers, araba modifikasyonu ve meslek simülasyonu öğeleri içeren bir oyunudur. Oyuncular, kendi arabalarını modifiye edebilir, para kazanmak için farklı mesleklerde çalışabilir ve oyun dünyasını keşfedebilirler.
+Racer-Brothers, araba modifikasyonu ve meslek simülasyonu öğeleri içeren bir oyundur. Oyuncular, kendi arabalarını modifiye edebilir, para kazanmak için farklı mesleklerde çalışabilir ve oyun dünyasını keşfedebilirler.
 
 ## Kurulum
 
@@ -28,7 +28,7 @@ Oyuncular, oyun dünyasını keşfedebilirler. Oyun dünyası, farklı sokaklar,
 
 ## Geliştiriciler
 
-Oyun Adı, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştirici ekip:
+Racer-Brothers, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştirici ekip:
 
 - ALİ KAHYA (e-posta adresi)
 - KEMAL KAÇMAZ (e-posta adresi)
