@@ -1,10 +1,10 @@
 # Racer-Brothers
 
-Racer-Brothers, araba modifikasyonu ve meslek simülasyonu öğeleri içeren bir oyundur. Oyuncular, kendi arabalarını modifiye edebilir, para kazanmak için farklı mesleklerde çalışabilir ve oyun dünyasını keşfedebilirler.
+Racer-Brothers, araba modifikasyonu ve meslek simülasyonu öğeleri içeren bir oyundur. Oyuncular, kendi arabalarını modifiye edebilir, para kazanmak için farklı mesleklerde çalışabilir ve Racer-Brothers'ın dünyasını keşfedebilirler.
 
 ## Kurulum
 
-Oyunu oynamak için, aşağıdaki adımları izleyin:
+Racer-Brothers'ı oynamak için, aşağıdaki adımları izleyin:
 
 1. Oyunu indirin veya klonlayın: `git clone https://github.com/Koschei97/Racer-Brothers.git`
 2. Unity3D'i açın ve projeyi içeri aktarın.
@@ -12,7 +12,7 @@ Oyunu oynamak için, aşağıdaki adımları izleyin:
 
 ## Oynanış
 
-Oyun, oyuncuların arabalarını modifiye edebileceği ve farklı mesleklerde çalışarak para kazanabileceği açık dünya tarzında bir ortamda geçer.
+Racer-Brothers, oyuncuların arabalarını modifiye edebileceği ve farklı mesleklerde çalışarak para kazanabileceği açık dünya tarzında bir ortamda geçer.
 
 ### Araba Modifikasyonu
 
@@ -24,7 +24,7 @@ Oyuncular, farklı mesleklerde çalışarak para kazanabilirler. Meslekler, arab
 
 ### Açık Dünya
 
-Oyuncular, oyun dünyasını keşfedebilirler. Oyun dünyası, farklı sokaklar, araba yıkama yerleri, garajlar ve diğer özelliklerle doludur.
+Oyuncular, Racer-Brothers'ın dünyasını keşfedebilirler. Racer-Brothers'ın dünyası, farklı sokaklar, araba yıkama yerleri, garajlar ve diğer özelliklerle doludur.
 
 ## Geliştiriciler
 
@@ -37,5 +37,6 @@ Racer-Brothers, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştiri
 - https://learn.unity.com/
 - https://www.youtube.com/watch?v=8IP6Boyu1-Y&list=PLSuhOGv534vSzK3nPV4Pq3rVvuytlr3Yv&index=2&ab_channel=SendeKodYaz
 - https://assetstore.unity.com/?free=true&q=f&orderBy=1
+- https://www.btkakademi.gov.tr/portal/course/unity-ile-dijital-oyun-gelistirmeye-giris-10680
 ## Güncelleme Notları
 
