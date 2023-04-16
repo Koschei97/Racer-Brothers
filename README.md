@@ -38,5 +38,6 @@ Racer-Brothers, Unity3D oyun motoru kullanılarak geliştirilmiştir. Geliştiri
 - https://www.youtube.com/watch?v=8IP6Boyu1-Y&list=PLSuhOGv534vSzK3nPV4Pq3rVvuytlr3Yv&index=2&ab_channel=SendeKodYaz
 - https://assetstore.unity.com/?free=true&q=f&orderBy=1
 - https://www.btkakademi.gov.tr/portal/course/unity-ile-dijital-oyun-gelistirmeye-giris-10680
+https://www.youtube.com/watch?v=D4I0I3QJAvc
 ## Güncelleme Notları
 
